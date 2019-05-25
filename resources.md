@@ -16,7 +16,7 @@
 1.
 
 ## Other resources
-1.
+1. [SQL tutorial by Mode](https://mode.com/sql-tutorial/) - Four courses on SQL ranging from beginner to advanced
 
 ## Books (both coding and non-coding)
 
